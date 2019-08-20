@@ -12,7 +12,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "b99be0f120652989de624bb0b227d742"
+    "revision": "1d25bfed4262990790e3e2eb8f064f34"
   },
   {
     "url": "offline.html",
