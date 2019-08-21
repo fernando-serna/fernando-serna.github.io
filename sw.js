@@ -7,12 +7,12 @@ if (workbox) {
 
   workbox.precaching.precacheAndRoute([
   {
-    "url": "static/css/main.126071af.chunk.css",
-    "revision": "dcae826c5a14ea6aafaa086e041ef550"
+    "url": "static/css/main.6599a5e6.chunk.css",
+    "revision": "be7d98eece6afc72c38dee2804704a15"
   },
   {
     "url": "index.html",
-    "revision": "e620852012cc235291815ee67ab6fd31"
+    "revision": "d1df99cfa08e9aae66eec0b225de18bd"
   },
   {
     "url": "offline.html",
